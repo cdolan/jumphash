@@ -1,4 +1,5 @@
 # Jumphash
+[![Build Status](https://travis-ci.org/cdolan/jumphash.svg?branch=master)](https://travis-ci.org/cdolan/jumphash)
 
 MRI Ruby implementation of the [jump consistent hash][paper] algorithm by
 John Lamping and Eric Veach of Google.
